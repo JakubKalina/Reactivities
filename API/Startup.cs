@@ -30,6 +30,14 @@ namespace API
             services.AddDbContext<DataContext>(opt => {
                 opt.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            // Create a new CORS policy
+            services.AddCors(opt => {
+                opt.AddPolicy("CorsPolicy", policy => {
+                    policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
+                });
+            });
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -48,6 +56,9 @@ namespace API
             }
 
             //app.UseHttpsRedirection();
+
+            // Use CORS policy created in ConfigureServices method
+            app.UseCors("CorsPolicy");
             app.UseMvc();
         }
     }
