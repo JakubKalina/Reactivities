@@ -4121,11 +4121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-      "outputPath": "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Application\\obj\\",
+      "outputPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4144,11 +4144,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Domain\\Domain.csproj"
+            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Domain\\Domain.csproj"
             },
-            "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "e:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Persistence\\Persistence.csproj"
+            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
