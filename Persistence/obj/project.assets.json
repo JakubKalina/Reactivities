@@ -4054,11 +4054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-      "outputPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Persistence\\obj\\",
+      "outputPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4077,8 +4077,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Domain\\Domain.csproj"
+            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

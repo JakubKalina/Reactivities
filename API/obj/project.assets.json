@@ -12547,11 +12547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\api\\API.csproj",
+      "projectUniqueName": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\api\\API.csproj",
+      "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-      "outputPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\api\\obj\\",
+      "outputPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12570,8 +12570,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Application\\Application.csproj": {
-              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\reactivities\\Application\\Application.csproj"
+            "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "E:\\Jakub\\Documents\\Programowanie\\C#\\ASP.NET Core plus React\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
